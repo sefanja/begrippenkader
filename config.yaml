@@ -11,29 +11,28 @@ searchableAttributes:
   - "example"
   - "definition"
 ui:
-  title: "Begrippenkaders van Netbeheer Nederland" # Title is mandatory
-  logo: "skohub-signet-color.svg" # Path
+  title: "Begrippenkaders | Netbeheer Nederland"
+  logo: "logo.svg"
   colors:
     skoHubWhite: "rgb(255, 255, 255)"
-    skoHubDarkColor: "rgb(15, 85, 75)"
-    skoHubMiddleColor: "rgb(20, 150, 140)"
-    skoHubLightColor: "rgb(40, 200, 175)"
-    skoHubThinColor: "rgb(55, 250, 210)"
+    skoHubDarkColor: "rgb(0, 45, 65)"
+    skoHubMiddleColor: "rgb(26, 66, 84)"
+    skoHubLightColor: "rgb(77, 108, 122)"
+    skoHubThinColor: "rgb(166, 182, 190)"
     skoHubBlackColor: "rgb(5, 30, 30)"
-    skoHubAction: "rgb(230, 0, 125)"
+    skoHubAction: "rgb(0, 95, 135)"
     skoHubNotice: "rgb(250, 180, 50)"
     skoHubDarkGrey: "rgb(155, 155, 155)"
     skoHubMiddleGrey: "rgb(200, 200, 200)"
     skoHubLightGrey: "rgb(235, 235, 235)"
   fonts:
     regular:
-      font_family: "Ubuntu"
+      font_family: "Poppins"
       font_style: "normal"
       font_weight: 400
-      name: "ubuntu-v20-latin-regular"
+      name: "poppins-v24-latin-regular"
     bold:
-      font_family: "Ubuntu"
+      font_family: "Poppins"
       font_style: "normal"
       font_weight: 700
-      name: "ubuntu-v20-latin-700"
-
+      name: "poppins-v24-latin-regular"
