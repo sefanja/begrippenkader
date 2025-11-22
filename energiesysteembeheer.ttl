@@ -9,9 +9,9 @@
 @prefix skosthes: <http://purl.org/iso25964/skos-thes#> .
 @prefix nen2660-term: <https://w3id.org/nen2660/term#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix : <https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/> .
+@prefix : <https://sefanja.github.io/begrippenkader/energiesysteembeheer/> .
 
-<https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/> a owl:Ontology;
+<https://sefanja.github.io/begrippenkader/energiesysteembeheer/> a owl:Ontology;
   owl:imports <http://xmlns.com/foaf/0.1/> .
 
 :energiesysteembeheer a skos:ConceptScheme;
@@ -383,7 +383,7 @@
 :in-concept a skos:Collection;
   rdfs:comment "Concepten in deze collectie zijn nog niet gevalideerd."@nl;
   skos:prefLabel "in concept"@nl;
-  skos:member <https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/>,
+  skos:member <https://sefanja.github.io/begrippenkader/energiesysteembeheer/>,
     :bieding-redispatch, :voedingsgebied, :publieke-laadinstallatie, :private-laadinstallatie,
     :snellaadinstallatie, :laadpunt, :spanningsniveau, :aansluittermijn, :extrahoogspanning,
     :hoogspanning, :laagspanning, :middenspanning, :tussenspanning, :lage-druk, :drukniveau,
