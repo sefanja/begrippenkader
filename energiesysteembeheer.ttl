@@ -379,7 +379,7 @@
 :in-concept a skos:Collection;
   rdfs:comment "Concepten in deze collectie zijn nog niet gevalideerd."@nl;
   skos:prefLabel "in concept"@nl;
-  skos:member :energiesysteembeheer,
+  skos:member energiesysteembeheer:,
     :bieding-redispatch, :voedingsgebied, :publieke-laadinstallatie, :private-laadinstallatie,
     :snellaadinstallatie, :laadpunt, :spanningsniveau, :aansluittermijn, :extrahoogspanning,
     :hoogspanning, :laagspanning, :middenspanning, :tussenspanning, :lage-druk, :drukniveau,
