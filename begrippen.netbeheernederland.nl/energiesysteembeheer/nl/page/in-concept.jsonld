@@ -1,0 +1,416 @@
+{
+  "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/in-concept",
+  "type": "Collection",
+  "prefLabel": {
+    "nl": "in concept"
+  },
+  "member": [
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/standaardjaarvolume",
+      "prefLabel": {
+        "nl": "standaardjaarvolume"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/bieding-redispatch",
+      "prefLabel": {
+        "nl": "bieding redispatch"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/opregel-of-afregelaanbod",
+      "prefLabel": {
+        "nl": "opregel- of afregelaanbod"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/transportprognose",
+      "prefLabel": {
+        "nl": "transportprognose"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/voedingsgebied",
+      "prefLabel": {
+        "nl": "voedingsgebied"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/publieke-laadinstallatie",
+      "prefLabel": {
+        "nl": "publieke laadinstallatie"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/private-laadinstallatie",
+      "prefLabel": {
+        "nl": "private laadinstallatie"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/snellaadinstallatie",
+      "prefLabel": {
+        "nl": "snellaadinstallatie"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/laadpunt",
+      "prefLabel": {
+        "nl": "laadpunt"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/spanningsniveau",
+      "prefLabel": {
+        "nl": "spanningsniveau"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/aansluittermijn",
+      "prefLabel": {
+        "nl": "aansluittermijn"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/extrahoogspanning",
+      "prefLabel": {
+        "nl": "extrahoogspanning"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/hoogspanning",
+      "prefLabel": {
+        "nl": "hoogspanning"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/laagspanning",
+      "prefLabel": {
+        "nl": "laagspanning"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/middenspanning",
+      "prefLabel": {
+        "nl": "middenspanning"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/tussenspanning",
+      "prefLabel": {
+        "nl": "tussenspanning"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/lage-druk",
+      "prefLabel": {
+        "nl": "lage druk"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/drukniveau",
+      "prefLabel": {
+        "nl": "drukniveau"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/hoge-druk",
+      "prefLabel": {
+        "nl": "hoge druk"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/extrahoge-druk",
+      "prefLabel": {
+        "nl": "extrahoge druk"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/knooppunt",
+      "prefLabel": {
+        "nl": "knooppunt"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/gezamenlijke-aansluiting",
+      "prefLabel": {
+        "nl": "gezamenlijke aansluiting"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/transportrecht",
+      "prefLabel": {
+        "nl": "transportrecht"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/volledig-vast-transportrecht",
+      "prefLabel": {
+        "nl": "volledig vast transportrecht"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/volledig-variabel-transportrecht",
+      "prefLabel": {
+        "nl": "volledig variabel transportrecht"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/tijdsduurgebonden-transportrecht",
+      "prefLabel": {
+        "nl": "tijdsduurgebonden transportrecht"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/tijdsblokgebonden-transportrecht",
+      "prefLabel": {
+        "nl": "tijdsblokgebonden transportrecht"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/groepscapaciteitsbeperkingscontract",
+      "prefLabel": {
+        "nl": "groepscapaciteitsbeperkingscontract"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/collectief-capaciteitsbeperkingscontract",
+      "prefLabel": {
+        "nl": "collectief capaciteitsbeperkingscontract"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/vrije-bieding-redispatch",
+      "prefLabel": {
+        "nl": "vrije bieding redispatch"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/bieding-onder-contract-voor-redispatchcapaciteit",
+      "prefLabel": {
+        "nl": "bieding onder contract voor redispatchcapaciteit"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/niet-marktgebaseerde-bieding-redispatch",
+      "prefLabel": {
+        "nl": "niet-marktgebaseerde bieding redispatch"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/contract-voor-redispatchcapaciteit",
+      "prefLabel": {
+        "nl": "contract voor redispatchcapaciteit"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/transmissie",
+      "prefLabel": {
+        "nl": "transmissie"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/distributie",
+      "prefLabel": {
+        "nl": "distributie"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/alternatief-transportrecht",
+      "prefLabel": {
+        "nl": "alternatief transportrecht"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/csp",
+      "prefLabel": {
+        "nl": "CSP"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/aansluitlocatie",
+      "prefLabel": {
+        "nl": "aansluitlocatie"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/netgebied",
+      "prefLabel": {
+        "nl": "netgebied"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/elektriciteitslaadeenheid",
+      "prefLabel": {
+        "nl": "elektriciteitslaadeenheid"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/bedieningshandeling",
+      "prefLabel": {
+        "nl": "bedieningshandeling"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/opregel-of-afregelactie",
+      "prefLabel": {
+        "nl": "opregel- of afregelactie"
+      }
+    },
+    {
+      "id": "https://begrippen.netbeheernederland.nl/energiesysteembeheer/nl/page/opregel-of-afregelbehoefte",
+      "prefLabel": {
+        "nl": "opregel- of afregelbehoefte"
+      }
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}
