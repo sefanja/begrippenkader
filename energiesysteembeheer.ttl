@@ -9,7 +9,7 @@
 @prefix skosthes: <http://purl.org/iso25964/skos-thes#> .
 @prefix nen2660-term: <https://w3id.org/nen2660/term#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix energiesysteembeheer: https://sefanja.github.io/begrippenkader/energiesysteembeheer> .
+@prefix energiesysteembeheer: https://sefanja.github.io/begrippenkader/energiesysteembeheer/> .
 
 energiesysteembeheer: a owl:Ontology;
   owl:imports <http://xmlns.com/foaf/0.1/> .
