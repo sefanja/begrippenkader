@@ -1,4 +1,3 @@
-@prefix energiesysteembeheer: <https://sefanja.github.io/begrippenkader/energiesysteembeheer/> .
 @prefix : <https://sefanja.github.io/begrippenkader/energiesysteembeheer/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
@@ -8,11 +7,11 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 
-energiesysteembeheer: a owl:Ontology;
+:energiesysteembeheer a owl:Ontology;
   owl:imports <http://xmlns.com/foaf/0.1/> .
 
-energiesysteembeheer: a skos:ConceptScheme;
-  rdfs:comment "Dit TEST begrippenkader definieert de soorten dingen die worden beheerd door de Nederlanse <a href=\"https://wetten.overheid.nl/BWBR0050714\">transmissie- en distributiesysteembeheerders</a> bij de uitvoering van de economische activiteiten <a href=\"https://sbi-api.cbs.nl/api/SBIData/SBIInfo/3513\">3513</a> (Transmissie van elektriciteit), <a href=\"https://sbi-api.cbs.nl/api/SBIData/SBIInfo/3514\">3514</a> (Distributie van elektriciteit), <a href=\"https://sbi-api.cbs.nl/api/SBIData/SBIInfo/4950\">4950</a> (Transport via pijpleidingen) en <a href=\"https://sbi-api.cbs.nl/api/SBIData/SBIInfo/3522\">3522</a> (Distributie van gasvormige brandstoffen via leidingen). De begrippen op het hoogste niveau in de hiërarchie zijn gedefinieerd door <a href=\"https://nbility-model.github.io\">NBility</a>."@nl;
+:energiesysteembeheer a skos:ConceptScheme;
+  rdfs:comment "Dit begrippenkader definieert de soorten dingen die worden beheerd door de Nederlanse <a href=\"https://wetten.overheid.nl/BWBR0050714\">transmissie- en distributiesysteembeheerders</a> bij de uitvoering van de economische activiteiten <a href=\"https://sbi-api.cbs.nl/api/SBIData/SBIInfo/3513\">3513</a> (Transmissie van elektriciteit), <a href=\"https://sbi-api.cbs.nl/api/SBIData/SBIInfo/3514\">3514</a> (Distributie van elektriciteit), <a href=\"https://sbi-api.cbs.nl/api/SBIData/SBIInfo/4950\">4950</a> (Transport via pijpleidingen) en <a href=\"https://sbi-api.cbs.nl/api/SBIData/SBIInfo/3522\">3522</a> (Distributie van gasvormige brandstoffen via leidingen). De begrippen op het hoogste niveau in de hiërarchie zijn gedefinieerd door <a href=\"https://nbility-model.github.io\">NBility</a>."@nl;
   skos:prefLabel "Energiesysteembeheer"@nl .
 
 :energiedrager a skos:Concept;
@@ -380,7 +379,7 @@ energiesysteembeheer: a skos:ConceptScheme;
 :in-concept a skos:Collection;
   rdfs:comment "Concepten in deze collectie zijn nog niet gevalideerd."@nl;
   skos:prefLabel "in concept"@nl;
-  skos:member energiesysteembeheer:,
+  skos:member :energiesysteembeheer,
     :bieding-redispatch, :voedingsgebied, :publieke-laadinstallatie, :private-laadinstallatie,
     :snellaadinstallatie, :laadpunt, :spanningsniveau, :aansluittermijn, :extrahoogspanning,
     :hoogspanning, :laagspanning, :middenspanning, :tussenspanning, :lage-druk, :drukniveau,
